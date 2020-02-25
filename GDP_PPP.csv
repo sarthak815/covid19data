@@ -1,189 +1,189 @@
 Rank,Country/Territory,Int$
-1, Qatar,126898
-—, Macau,123892
-2, Luxembourg,113337
-3, Singapore,101531
-4, Ireland,83203
-5, Brunei,80920
-6, United Arab Emirates,75075
-7, Kuwait,72897
-8,  Switzerland,68060
-9, Norway,65510
-—, Hong Kong,64596
-10, San Marino,63037
-11, United States,62794
-12, Iceland,57303
-13, Netherlands,56328
-14, Denmark,55671
-15, Austria,55454
-16, Saudi Arabia,55335
-17, Sweden,53208
-18, Germany,53074
-19, Australia,51663
-20, Belgium,51408
-21, Finland,48416
-22, Canada,48130
-23, Bahrain,47303
-24, United Kingdom,45973
-25, France,45342
-—, European Union,43737
-26, Japan,42797
-27, Malta,42581
-28, Oman,41859
-29, Italy,41830
-30, New Zealand,41005
-31," Korea, South",40111
-32, Israel,39919
-33, Czech Republic,39743
-34, Spain,39715
-35, Slovenia,38048
-36, Cyprus,"36,155 (2017)"
-37, Estonia,35973
-38, Lithuania,35461
-39, Slovakia,33736
-40, Portugal,33415
-41," Bahamas, The",32087
-42, Trinidad and Tobago,32014
-43, Malaysia,31782
-44, Poland,31336
-45, Hungary,31102
-46, Seychelles,30557
-47, Latvia,30304
-48, Saint Kitts and Nevis,30207
-49, Greece,29592
-50, Romania,28206
-51, Turkey,28068
-52, Kazakhstan,27879
-53, Croatia,27579
-54, Russia,27147
-55, Antigua and Barbuda,26868
-56, Panama,25553
-57, Chile,25222
-58, Mauritius,23751
-59, Uruguay,23572
-60, Equatorial Guinea,22743
-61, Bulgaria,21960
-62, Iran,21011
-63, Libya,20764
-64, Montenegro,20690
-65, Argentina,20610
-66, Belarus,19994
-67, Mexico,19844
-68, Turkmenistan,19304
-69, Thailand,19051
-70, Botswana,18615
-71, Barbados,18554
-72, Palau,18510
-73, China,18236
-74, Azerbaijan,18044
-—, World,17948
-75, Gabon,17875
-76, Dominican Republic,17748
-77, Costa Rica,17671
-78, Iraq,17435
-79, Serbia,17434
-80, Nauru,16504
-81, North Macedonia,16358
-82, Brazil,16096
-83, Grenada,15557
-84, Suriname,15510
-85, Algeria,15481
-86, Maldives,15307
-87, Colombia,15012
-88, Bosnia and Herzegovina,14623
-89, Peru,14418
-90, Saint Lucia,13881
-91, Mongolia,13799
-92, South Africa,13686
-93, Paraguay,13599
-94, Sri Lanka,13473
-95, Albania,13364
-96, Lebanon,13081
-97, Indonesia,13079
-98, Tunisia,12502
-99, Egypt,12412
-100, Saint Vincent and the Grenadines,12288
-101, Georgia,12004
-102, Ecuador,11734
-—, Kosovo,11348
-103, Dominica,11129
-104, Namibia,11101
-105, Fiji,10879
-106, Eswatini,10637
-107, Bhutan,10534
-108, Armenia,10343
-109, Jordan,9478
-110, Jamaica,9326
-111, Ukraine,9233
-112, Philippines,8951
-113, Belize,8648
-114, Guyana,8640
-115, Morocco,8586
-116, Uzbekistan,8556
-117, Guatemala,8462
-118, El Salvador,8331
-119, Bolivia,7873
-120, India,7762
-121, Timor-Leste,7658
-122, Cape Verde,7454
-123, Vietnam,7447
-124, Laos,7439
-125, Moldova,7271
-126, Myanmar,6674
-127, Samoa,6483
-128, Angola,6452
-129, Tonga,6419
-130, Nigeria,5990
-131," Congo, Republic of the",5662
-132, Pakistan,5567
-133, Nicaragua,5533
-—, West Bank and Gaza,5157
-134, Honduras,5138
-135, Sudan,4759
-136, Ghana,4746
-137, Bangladesh,4371
-138, Cambodia,4360
-139, Papua New Guinea,4336
-140, Zambia,4223
-141, Côte d'Ivoire,4207
-142, Mauritania,4151
-143, Tuvalu,4049
-144, Marshall Islands,3989
-145, Kyrgyzstan,3884
-146, Cameroon,3785
-147, Senegal,3782
-148," Micronesia, Federated States of",3553
-149, Kenya,3467
-150, Tajikistan,3449
-151, São Tomé and Príncipe,3418
-152, Tanzania,3227
-153, Vanuatu,3221
-154, Lesotho,3219
-155,   Nepal,3089
-156, Zimbabwe,3029
-157, Comoros,2913
-158," Gambia, The",2612
-159, Yemen,2575
-160, Guinea,2504
-161, Benin,2424
-162, Solomon Islands,2422
-163, Mali,2316
-164, Kiribati,2293
-165, Rwanda,2251
-166, Uganda,2038
-167, Ethiopia,2022
-168, Burkina Faso,1984
-169, Chad,1968
-170, Afghanistan,1955
-171, Madagascar,1891
-172, Haiti,1866
-173, Guinea-Bissau,1799
-174, Togo,1773
-175, Sierra Leone,1602
-176, Mozambique,1459
-177, Malawi,1311
-178, Liberia,1308
-179, Niger,1063
-180," Congo, Democratic Republic of the",932
-181, Central African Republic,859
-182, Burundi,744
+1,Â Qatar,126898
+â€”,Â Macau,123892
+2,Â Luxembourg,113337
+3,Â Singapore,101531
+4,Â Ireland,83203
+5,Â Brunei,80920
+6,Â United Arab Emirates,75075
+7,Â Kuwait,72897
+8,Â Â Switzerland,68060
+9,Â Norway,65510
+â€”,Â Hong Kong,64596
+10,Â San Marino,63037
+11,Â United States,62794
+12,Â Iceland,57303
+13,Â Netherlands,56328
+14,Â Denmark,55671
+15,Â Austria,55454
+16,Â Saudi Arabia,55335
+17,Â Sweden,53208
+18,Â Germany,53074
+19,Â Australia,51663
+20,Â Belgium,51408
+21,Â Finland,48416
+22,Â Canada,48130
+23,Â Bahrain,47303
+24,Â United Kingdom,45973
+25,Â France,45342
+â€”,Â European Union,43737
+26,Â Japan,42797
+27,Â Malta,42581
+28,Â Oman,41859
+29,Â Italy,41830
+30,Â New Zealand,41005
+31,"Â Korea, South",40111
+32,Â Israel,39919
+33,Â Czech Republic,39743
+34,Â Spain,39715
+35,Â Slovenia,38048
+36,Â Cyprus,36,155 
+37,Â Estonia,35973
+38,Â Lithuania,35461
+39,Â Slovakia,33736
+40,Â Portugal,33415
+41,"Â Bahamas, The",32087
+42,Â Trinidad and Tobago,32014
+43,Â Malaysia,31782
+44,Â Poland,31336
+45,Â Hungary,31102
+46,Â Seychelles,30557
+47,Â Latvia,30304
+48,Â Saint Kitts and Nevis,30207
+49,Â Greece,29592
+50,Â Romania,28206
+51,Â Turkey,28068
+52,Â Kazakhstan,27879
+53,Â Croatia,27579
+54,Â Russia,27147
+55,Â Antigua and Barbuda,26868
+56,Â Panama,25553
+57,Â Chile,25222
+58,Â Mauritius,23751
+59,Â Uruguay,23572
+60,Â Equatorial Guinea,22743
+61,Â Bulgaria,21960
+62,Â Iran,21011
+63,Â Libya,20764
+64,Â Montenegro,20690
+65,Â Argentina,20610
+66,Â Belarus,19994
+67,Â Mexico,19844
+68,Â Turkmenistan,19304
+69,Â Thailand,19051
+70,Â Botswana,18615
+71,Â Barbados,18554
+72,Â Palau,18510
+73,Â China,18236
+74,Â Azerbaijan,18044
+â€”,Â World,17948
+75,Â Gabon,17875
+76,Â Dominican Republic,17748
+77,Â Costa Rica,17671
+78,Â Iraq,17435
+79,Â Serbia,17434
+80,Â Nauru,16504
+81,Â North Macedonia,16358
+82,Â Brazil,16096
+83,Â Grenada,15557
+84,Â Suriname,15510
+85,Â Algeria,15481
+86,Â Maldives,15307
+87,Â Colombia,15012
+88,Â Bosnia and Herzegovina,14623
+89,Â Peru,14418
+90,Â Saint Lucia,13881
+91,Â Mongolia,13799
+92,Â South Africa,13686
+93,Â Paraguay,13599
+94,Â Sri Lanka,13473
+95,Â Albania,13364
+96,Â Lebanon,13081
+97,Â Indonesia,13079
+98,Â Tunisia,12502
+99,Â Egypt,12412
+100,Â Saint Vincent and the Grenadines,12288
+101,Â Georgia,12004
+102,Â Ecuador,11734
+â€”,Â Kosovo,11348
+103,Â Dominica,11129
+104,Â Namibia,11101
+105,Â Fiji,10879
+106,Â Eswatini,10637
+107,Â Bhutan,10534
+108,Â Armenia,10343
+109,Â Jordan,9478
+110,Â Jamaica,9326
+111,Â Ukraine,9233
+112,Â Philippines,8951
+113,Â Belize,8648
+114,Â Guyana,8640
+115,Â Morocco,8586
+116,Â Uzbekistan,8556
+117,Â Guatemala,8462
+118,Â El Salvador,8331
+119,Â Bolivia,7873
+120,Â India,7762
+121,Â Timor-Leste,7658
+122,Â Cape Verde,7454
+123,Â Vietnam,7447
+124,Â Laos,7439
+125,Â Moldova,7271
+126,Â Myanmar,6674
+127,Â Samoa,6483
+128,Â Angola,6452
+129,Â Tonga,6419
+130,Â Nigeria,5990
+131,"Â Congo, Republic of the",5662
+132,Â Pakistan,5567
+133,Â Nicaragua,5533
+â€”,Â West Bank and Gaza,5157
+134,Â Honduras,5138
+135,Â Sudan,4759
+136,Â Ghana,4746
+137,Â Bangladesh,4371
+138,Â Cambodia,4360
+139,Â Papua New Guinea,4336
+140,Â Zambia,4223
+141,Â CÃ´te d'Ivoire,4207
+142,Â Mauritania,4151
+143,Â Tuvalu,4049
+144,Â Marshall Islands,3989
+145,Â Kyrgyzstan,3884
+146,Â Cameroon,3785
+147,Â Senegal,3782
+148,"Â Micronesia, Federated States of",3553
+149,Â Kenya,3467
+150,Â Tajikistan,3449
+151,Â SÃ£o TomÃ© and PrÃ­ncipe,3418
+152,Â Tanzania,3227
+153,Â Vanuatu,3221
+154,Â Lesotho,3219
+155,Â Â Â Nepal,3089
+156,Â Zimbabwe,3029
+157,Â Comoros,2913
+158,"Â Gambia, The",2612
+159,Â Yemen,2575
+160,Â Guinea,2504
+161,Â Benin,2424
+162,Â Solomon Islands,2422
+163,Â Mali,2316
+164,Â Kiribati,2293
+165,Â Rwanda,2251
+166,Â Uganda,2038
+167,Â Ethiopia,2022
+168,Â Burkina Faso,1984
+169,Â Chad,1968
+170,Â Afghanistan,1955
+171,Â Madagascar,1891
+172,Â Haiti,1866
+173,Â Guinea-Bissau,1799
+174,Â Togo,1773
+175,Â Sierra Leone,1602
+176,Â Mozambique,1459
+177,Â Malawi,1311
+178,Â Liberia,1308
+179,Â Niger,1063
+180,"Â Congo, Democratic Republic of the",932
+181,Â Central African Republic,859
+182,Â Burundi,744
