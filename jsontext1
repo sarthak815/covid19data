@@ -1,0 +1,24 @@
+  
+{
+  "researchpapers": [
+    {
+      "Unnamed: 0": 0,
+      "Title": "Identification of a new human coronavirus",
+      "authors": "L van der Hoek, K Pyrc, MF Jebbink… ",
+      "journal domain": "www.nature.com",
+      "abstract": "Three human coronaviruses are known to exist: human coronavirus 229E (HCoV-229E), HCoV-OC43 and severe acute respiratory syndrome (SARS)-associated coronavirus (SARS-CoV). Here we report the identification of a fourth human coronavirus, HCoV-NL63, using a …",
+      "link": "https://www.nature.com/articles/nm1024",
+      "citations": 1300
+    },
+   
+    {
+      "Unnamed: 0": 991,
+      "Title": "Effects of early corticosteroid treatment on plasma SARS-associated Coronavirus RNA concentrations in adult patients",
+      "authors": "N Lee, KCA Chan, DS Hui, EKO Ng, A Wu… ",
+      "journal domain": "www.sciencedirect.com",
+      "abstract": "Background: The effect of corticosteroid treatment on the viral load of Severe Acute Respiratory Syndrome (SARS) patients is unknown. Objective: To compare the plasma SARS-CoV RNA concentrations in ribavirin-treated patients who received early …",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1386653204001957",
+      "citations": 149
+    }
+  ]
+}
